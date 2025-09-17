@@ -1,0 +1,2 @@
+- [x] Edit styles.css mobile media query to make .phone-link, .location-link, .lang-toggle display: inline-block with margin: 0 0.5rem, and add .lang-toggle { transform: none; }
+- [x] Test mobile navbar layout to ensure buttons are side by side without overlap
